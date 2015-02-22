@@ -1,0 +1,1 @@
+Put folder "FlexiTimer2" into "arduino\libraries" 
