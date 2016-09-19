@@ -82,10 +82,10 @@ void setup()
 
   /* Make a new time object to set the date and time */
   /*   Tuesday, May 19, 2009 at 21:16:37.            */
-//  Time t(2014, 7, 6, 16, 23, 00, 1);
+  Time t(2015, 6, 8, 21, 40, 00, 2);
 
   /* Set the time and date on the chip */
-//  rtc.time(t);
+  rtc.time(t);
 }
 
 
