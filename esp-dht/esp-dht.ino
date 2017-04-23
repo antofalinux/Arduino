@@ -11,7 +11,7 @@
 #define DHTPIN  14
  
 const char* ssid     = "sanson";
-const char* password = "vIcente25";
+const char* password = "v1c3nt325.";
  
 ESP8266WebServer server(80);
  
