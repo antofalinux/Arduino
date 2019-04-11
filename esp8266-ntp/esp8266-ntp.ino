@@ -17,8 +17,8 @@
 #include <WiFiUdp.h>
 #include <SoftwareSerial.h>
 
-char ssid[] = "sanson";  //  your network SSID (name)
-char pass[] = "vIcente25";       // your network password
+char ssid[] = "ssid";  //  your network SSID (name)
+char pass[] = "*******";       // your network password
 int hora;
 int luz=4;
 int Hencendido=19; //19
