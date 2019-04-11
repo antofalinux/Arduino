@@ -11,8 +11,8 @@
 // Important!! We use pin 13 for enable esp8266  
 #define WIFI_ENABLE_PIN 13
 
-#define SSID "sanson"
-#define PASS "vIcente25"
+#define SSID "ssid"
+#define PASS "******"
 #define PUBLIC_KEY "ppppppppp"
 #define PRIVATE_KEY "kkkkkkkkk"
 
