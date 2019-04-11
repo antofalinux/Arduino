@@ -16,8 +16,8 @@ EthernetServer server(80);
 /////////////////
 // Phant Stuff //
 /////////////////
-const String publicKey = "G2rK7aM693FJrN5rYnnl";
-const String privateKey = "NWYvBZEbjKSo61R6lvvq";
+const String publicKey = "*****";
+const String privateKey = "*******";
 const byte NUM_FIELDS = 10;
 const String fieldNames[NUM_FIELDS] = {"gas", "humedad", "humo", "puerta", "temperatura", "luz", "dia", "hora", "minuto", "segundo"};
 String fieldData[NUM_FIELDS];
