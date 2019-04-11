@@ -5,8 +5,8 @@
 #include "DHT.h"    
 #define DHTPIN          2   //Pin to attach the DHT (pinD4 en el node)
 #define DHTTYPE DHT11       //type of DTH  
-const char* ssid     = "sanson"; 
-const char* password = "vIcente25";
+const char* ssid     = "Netwok"; 
+const char* password = "*****";
 const int sleepTimeS = 60; //18000 for Half hour, 300 for 5 minutes etc.
 #define ONE_WIRE_BUS 12  // DS18B20 pin
 OneWire oneWire(ONE_WIRE_BUS);
