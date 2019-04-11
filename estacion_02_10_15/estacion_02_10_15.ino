@@ -29,8 +29,8 @@
 #include "HTU21D.h" //Humidity sensor
 
 //configurar wifi
-#define SSID "sanson" // insert your SSID
-#define PASS "vIcente25" // insert your password
+#define SSID "ssid" // insert your SSID
+#define PASS "****" // insert your password
 
 //SoftwareSerial Serial1(8,9); // RX, TX into Imp pin 7
 
