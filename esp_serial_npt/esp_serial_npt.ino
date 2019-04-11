@@ -11,8 +11,8 @@
 */
 
 // Target Access Point
-#define ssid         "sanson"
-#define pass         "vIcente25"
+#define ssid         "*****"
+#define pass         "*****"
 
 int EnablePin = 6;
 unsigned long time = 0;
