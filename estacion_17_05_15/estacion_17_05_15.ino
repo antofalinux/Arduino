@@ -36,9 +36,9 @@
 #include "HTU21D.h" //Humidity sensor
 
 //configurar wifi
-#define SSID "sanson" // insert your SSID
-#define PASS "vIcente25" // insert your password
-#define LOCATIONID "IREGINDE61/vIcente25" // location id
+#define SSID "******" // insert your SSID
+#define PASS "*****" // insert your password
+#define LOCATIONID "IREGINDE61/PASS" // location id
 #define DST_IP "23.222.152.140" //api.wunderground.com
 
 
