@@ -18,8 +18,8 @@ int a=0x0000,  //Read Starting address
 uint8_t MH,ML;
 boolean EndFlag=0;
 
-const char *ssid     = "sanson";
-const char *password = "vIcente25";
+const char *ssid     = "ssid";
+const char *password = "*****";
 
 const char* server = "webcam.wunderground.com";
 
@@ -74,7 +74,7 @@ void loop ( void ) {
 
   eRcv();
   Serial.println("PASS *************");
-  client.println("PASS vIcente25"); //FTP Password
+  client.println("PASS *******"); //FTP Password
  
   eRcv();
   Serial.println("SYST");
